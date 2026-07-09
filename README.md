@@ -43,7 +43,7 @@ A cleaned conversational cybersecurity dataset containing 2,394 samples is used 
 ```
 git clone <your-repository-url>
 
-cd FINE-TUNE-QWEN
+cd Fine-tune-qwen
 
 python -m venv .venv
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Project's structure 
 ```
-fine-tune-qwen/
+Fine-tune-qwen/
     │
     ├── notebooks/
     │       └── fine_tune_qwen_qlora.ipynb            
