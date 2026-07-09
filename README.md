@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Project's structure 
 ```
-FINE-TUNE-QWEN/
+fine-tune-qwen/
     │
     ├── notebooks/
     │       └── fine_tune_qwen_qlora.ipynb            
