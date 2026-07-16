@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_yb0ij4yb0ij4yb0i" src="https://github.com/user-attachments/assets/0d190bcb-e9b9-4d65-9082-13a5f922d667" />
+
 # Fine-Tuning Qwen2.5-1.5B with LoRA and QLoRA
 This project demonstrates how to fine-tune Qwen2.5-1.5B-Instruct on a conversational cybersecurity dataset using the LoRA and QLoRA parameter-efficient fine-tuning methods.
 
